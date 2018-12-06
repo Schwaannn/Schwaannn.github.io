@@ -1,0 +1,34 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.coryswanson.net" resolutions="1x" timestamp="1544126136107">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_landing.css" crc="82552242" ref="index"/>
+    <file name="master_formal.css" crc="190708877" ref="designs:evans-scholars:photos"/>
+    <file name="index.css" crc="499271803" ref="index"/>
+    <file name="designs.css" crc="317523855" ref="designs"/>
+    <file name="evans-scholars.css" crc="177677076" ref="evans-scholars"/>
+    <file name="photos.css" crc="490946482" ref="photos"/>
+  </folder>
+  <folder name="assets">
+    <file name="edcf-3b7f-f5b3-9c0e.jpg" crc="403381694" seo="true" mt="1544121516000"/>
+    <file name="swanson-resume.pdf" crc="4199652689" seo="true" mt="1532060205000"/>
+    <file name="img_0728.jpg" crc="4026026604" seo="true" mt="1544125555000"/>
+    <file name="img_0727.jpg" crc="132499484" seo="true" mt="1544125568000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:designs:photos:evans-scholars"/>
+    <file name="museutils.js" crc="340535759" ref="index:designs:photos:evans-scholars"/>
+    <file name="whatinput.js" crc="86476730" ref="index:designs:photos:evans-scholars"/>
+    <file name="museconfig.js" crc="310584261" ref="index:designs:photos:evans-scholars"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:designs:photos:evans-scholars"/>
+    <file name="require.js" crc="7928878" ref="index:designs:photos:evans-scholars"/>
+  </folder>
+  <folder name="images">
+    <file name="evans es.png" crc="93571438" seo="true" ref="designs">
+      <caption webpage="designs" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4194357867" seo="true" mt="1544125099180" redirect="true"/>
+  <file name="designs.html" crc="496739407" seo="true" mt="1544125726906" redirect="true"/>
+  <file name="photos.html" crc="4242850084" seo="true" mt="1544126127437" redirect="true"/>
+  <file name="evans-scholars.html" crc="234813399" seo="true" mt="1544125200562" redirect="true"/>
+</manifest>
