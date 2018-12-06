@@ -1,19 +1,23 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.coryswanson.net" resolutions="1x" timestamp="1544136132726">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.coryswanson.net" resolutions="1x" timestamp="1544138674897">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_landing.css" crc="376935062" ref="index"/>
-    <file name="nomq_preview_master_landing.css" crc="4267748417" ref="index"/>
-    <file name="master_formal.css" crc="190708877" ref="designs:evans-scholars:swanson-paint-co:photos"/>
-    <file name="index.css" crc="3887461573" ref="index"/>
-    <file name="nomq_index.css" crc="66967211" ref="index"/>
-    <file name="designs.css" crc="4272656949" ref="designs"/>
-    <file name="evans-scholars.css" crc="177677076" ref="evans-scholars"/>
-    <file name="swanson-paint-co.css" crc="177677076" ref="swanson-paint-co"/>
-    <file name="photos.css" crc="4272763592" ref="photos"/>
+    <file name="master_landing.css" crc="3920317060" ref="index"/>
+    <file name="nomq_preview_master_landing.css" crc="3769235557" ref="index"/>
+    <file name="master_formal.css" crc="3913094672" ref="designs:evans-scholars:swanson-paint-co:photos"/>
+    <file name="nomq_preview_master_formal.css" crc="3940659496" ref="designs:evans-scholars:swanson-paint-co:photos"/>
+    <file name="index.css" crc="4041242721" ref="index"/>
+    <file name="nomq_index.css" crc="337663110" ref="index"/>
+    <file name="designs.css" crc="104507408" ref="designs"/>
+    <file name="nomq_designs.css" crc="4167775617" ref="designs"/>
+    <file name="evans-scholars.css" crc="128888692" ref="evans-scholars"/>
+    <file name="nomq_evans-scholars.css" crc="3955117439" ref="evans-scholars"/>
+    <file name="swanson-paint-co.css" crc="128888692" ref="swanson-paint-co"/>
+    <file name="nomq_swanson-paint-co.css" crc="3955117439" ref="swanson-paint-co"/>
+    <file name="photos.css" crc="181881243" ref="photos"/>
+    <file name="nomq_photos.css" crc="4009145624" ref="photos"/>
   </folder>
   <folder name="assets">
     <file name="edcf-3b7f-f5b3-9c0e.jpg" crc="403381694" seo="true" mt="1544121516000"/>
-    <file name="swanson-resume.pdf" crc="4199652689" seo="true" mt="1532060205000"/>
     <file name="img_0728.jpg" crc="4026026604" seo="true" mt="1544125555000"/>
     <file name="img_0727.jpg" crc="132499484" seo="true" mt="1544125568000"/>
   </folder>
@@ -23,20 +27,27 @@
     <file name="whatinput.js" crc="86476730" ref="index:designs:photos:evans-scholars:swanson-paint-co"/>
     <file name="museconfig.js" crc="310584261" ref="index:designs:photos:evans-scholars:swanson-paint-co"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:designs:photos:evans-scholars:swanson-paint-co"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:designs:photos:evans-scholars:swanson-paint-co"/>
     <file name="require.js" crc="7928878" ref="index:designs:photos:evans-scholars:swanson-paint-co"/>
   </folder>
   <folder name="images">
     <file name="evans es.png" crc="93571438" seo="true" ref="designs">
       <caption webpage="designs" alt=""/>
+      <caption webpage="designs" alt=""/>
+      <caption webpage="designs" alt=""/>
+      <caption webpage="designs" alt=""/>
     </file>
     <file name="swanson paint co brush.png" crc="268342375" seo="true" ref="designs">
       <caption webpage="designs" alt=""/>
+      <caption webpage="designs" alt=""/>
+      <caption webpage="designs" alt=""/>
+      <caption webpage="designs" alt=""/>
     </file>
+    <file name="blank.gif" crc="4208392903" ref="designs:photos:evans-scholars:swanson-paint-co"/>
   </folder>
-  <file name="index.html" crc="3933183396" seo="true" mt="1544135250473" redirect="true"/>
-  <file name="designs.html" crc="3960592606" seo="true" mt="1544135919076" redirect="true"/>
-  <file name="photos.html" crc="4175868756" seo="true" mt="1544135919076" redirect="true"/>
-  <file name="evans-scholars.html" crc="233152554" seo="true" mt="1544135919076" redirect="true"/>
-  <file name="swanson-paint-co.html" crc="401254066" seo="true" mt="1544135919076" redirect="true"/>
+  <file name="index.html" crc="4200297794" seo="true" mt="1544135250473" redirect="true"/>
+  <file name="designs.html" crc="66027859" seo="true" mt="1544138654736" redirect="true"/>
+  <file name="photos.html" crc="454873005" seo="true" mt="1544138344329" redirect="true"/>
+  <file name="evans-scholars.html" crc="65166603" seo="true" mt="1544138344329" redirect="true"/>
+  <file name="swanson-paint-co.html" crc="284345569" seo="true" mt="1544138344329" redirect="true"/>
 </manifest>
