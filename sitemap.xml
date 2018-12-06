@@ -19,19 +19,25 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.coryswanson.net/photos.html</loc>
-    <lastmod>2018-12-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.coryswanson.net/evans-scholars.html</loc>
     <lastmod>2018-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.coryswanson.net/photos.html</loc>
+    <lastmod>2018-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.coryswanson.net/swanson-paint-co.html</loc>
+    <lastmod>2018-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coryswanson.net/assets/img_0727.jpg</loc>
     <lastmod>2018-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -49,7 +55,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.coryswanson.net/assets/img_0727.jpg</loc>
+    <loc>http://www.coryswanson.net/assets/swanson-resume.pdf</loc>
     <lastmod>2018-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
