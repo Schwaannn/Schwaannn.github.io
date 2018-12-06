@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.coryswanson.net" resolutions="1x" timestamp="1544125805723">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.coryswanson.net" resolutions="1x" timestamp="1544126136107">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_landing.css" crc="82552242" ref="index"/>
@@ -29,6 +29,6 @@
   </folder>
   <file name="index.html" crc="4194357867" seo="true" mt="1544125099180" redirect="true"/>
   <file name="designs.html" crc="496739407" seo="true" mt="1544125726906" redirect="true"/>
-  <file name="photos.html" crc="29382980" seo="true" mt="1544125627969" redirect="true"/>
+  <file name="photos.html" crc="4242850084" seo="true" mt="1544126127437" redirect="true"/>
   <file name="evans-scholars.html" crc="234813399" seo="true" mt="1544125200562" redirect="true"/>
 </manifest>
