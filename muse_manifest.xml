@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.coryswanson.net" resolutions="1x" timestamp="1544142953242">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.coryswanson.net" resolutions="1x" timestamp="1544160763764">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_landing.css" crc="185735806" ref="index"/>
@@ -46,9 +46,9 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="designs:photos:evans-scholars:swanson-paint-co"/>
   </folder>
-  <file name="index.html" crc="4056066540" seo="true" mt="1544142920488" redirect="true"/>
-  <file name="designs.html" crc="4047704999" seo="true" mt="1544142940292" redirect="true"/>
-  <file name="photos.html" crc="3928177172" seo="true" mt="1544142940292" redirect="true"/>
-  <file name="evans-scholars.html" crc="3833737297" seo="true" mt="1544142940292" redirect="true"/>
-  <file name="swanson-paint-co.html" crc="140478020" seo="true" mt="1544142940292" redirect="true"/>
+  <file name="index.html" crc="130975713" seo="true" mt="1544160694156" redirect="true"/>
+  <file name="designs.html" crc="478775125" seo="true" mt="1544160706611" redirect="true"/>
+  <file name="photos.html" crc="4049985698" seo="true" mt="1544160714033" redirect="true"/>
+  <file name="evans-scholars.html" crc="268604597" seo="true" mt="1544160727148" redirect="true"/>
+  <file name="swanson-paint-co.html" crc="450864110" seo="true" mt="1544160742773" redirect="true"/>
 </manifest>
